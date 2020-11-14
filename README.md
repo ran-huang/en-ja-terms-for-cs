@@ -4,7 +4,7 @@
 
 This project aims to create a comprehensive English-Japanese glossary for computer science and related fields.
 
-Currently, the repository contains a collection of dozens of *unverified* English-Japanese terms (see [the terms](en-ja-terms.md)). More terms will be added and verified. A TermBase eXchange (TBX) format will also be provided shortly.
+Currently, the repository contains a collection of dozens of *unverified* English-Japanese terms (see [the terms](src/en-ja-terms.md)). More terms will be added and verified. A TermBase eXchange (TBX) format will also be provided shortly.
 
 ## Term source
 
