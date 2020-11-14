@@ -101,4 +101,4 @@
 | test | テスト | |
 | transmit, transmission, send | 送信（そうしん） | |
 | trial version | 体験版（たいけんばん） | |
-| user | 利用者（りようしゃ） |
+| user | 利用者（りようしゃ） | |
