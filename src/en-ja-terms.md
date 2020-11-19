@@ -27,6 +27,7 @@
 | demand, request | 要求（ようきゅう） | from a customer, etc. |
 | dependency | 依存性（いぞんせい） | a DLL, library, etc. |
 | design/architecture | 設計 （せっけい） | |
+| designer | デザイナー |
 | developer | 開発者（かいはつしゃ） | |
 | development | 開発（かいはつ） | |
 | development environment | 開発環境（かいはつかんきょう） | |
@@ -89,6 +90,7 @@
 | save | 保存（ほぞん） | |
 | scale | 規模 （きぼ） | The scale of a project or plan |
 | screen | 画面（がめん） | |
+| semiconductor | 半導体（はんどうたい） | |
 | server | サーバー | |
 | setting | 設定（せってい） | |
 | software | ソフト（ソフトウェア） | |
