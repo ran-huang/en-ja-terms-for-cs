@@ -10,15 +10,19 @@
 | attachment | 添付（てんぷ） | |
 | beta version | バータ版 （ばん） | |
 | browser | ブラウザー | |
+| bug | バグ | |
+| checksum | チェックサム | |
 | click | クリック | |
 | comment | コメント | |
 | compile | コンパイル | |
+| component | コンポーネント | |
 | compose/create | 作成（さくせい） | |
 | computer | コンピュータ | more formal and used more frequently in software development than the word パソコン |
 | condition | 条件（じょうけん） | |
 | cursor | カーソル | |
 | data | データ | |
 | data integrity | データ完全性（かんぜんせい） | |
+| data loss | データ損失（そんしつ） | |
 | database | データベース | |
 | debug | デバッグ | |
 | decompression | 解凍（かいとう） | |
@@ -55,6 +59,7 @@
 | information | 情報 （じょうほう） | |
 | input | 入力（にゅうりょく） | |
 | installation | インストール | |
+| kernel | カーネル | |
 | link | リンク | |
 | login | ログイン | |
 | logout | ログアウト | |
@@ -72,6 +77,7 @@
 | overtime | 残業（ざんぎょう） | work overtime |
 | overwrite | 上書き（うわがき） | |
 | person in charge of something | 担当者 （たんとうしゃ） | a project, etc. |
+| performance | 性能（せいのう） | |
 | primer | 入門（にゅうもん） | when you begin learning something |
 | private key | 秘密鍵 | |
 | process | 処理（しょり） | like do a calculation, etc. |
@@ -80,10 +86,12 @@
 | project | プロジェクト | |
 | project plan document | 企画書（きかくしょ） | |
 | project, plan, planning | 企画（きかく） | |
+| protect, protection | 保護（ほご）| |
 | provider | プロバイダー | |
 | public key cryptography | 公開鍵暗号 | |
 | receive | 受信（じゅしん）する | |
 | reception | 受信（じゅしん） | |
+| recovery | リカバリ | |
 | reply | 返信（へんしん） | |
 | restart | 再起動 （さいきどう） | |
 | run/execute | 実行 （じっこう） | |
