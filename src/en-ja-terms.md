@@ -11,12 +11,14 @@
 | beta version | バータ版 （ばん） | |
 | browser | ブラウザー | |
 | bug | バグ | |
+| cache | キャッシュ | |
 | checksum | チェックサム | |
 | click | クリック | |
 | comment | コメント | |
 | compile | コンパイル | |
 | component | コンポーネント | |
 | compose/create | 作成（さくせい） | |
+| compress | 圧縮（あっしゅく） | |
 | computer | コンピュータ | more formal and used more frequently in software development than the word パソコン |
 | condition | 条件（じょうけん） | |
 | cursor | カーソル | |
