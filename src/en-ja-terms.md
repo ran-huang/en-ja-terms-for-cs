@@ -15,6 +15,7 @@
 | checksum | チェックサム | |
 | click | クリック | |
 | comment | コメント | |
+| compatibility | 互換性（ごかんせい） | |
 | compile | コンパイル | |
 | component | コンポーネント | |
 | compose/create | 作成（さくせい） | |
@@ -37,6 +38,7 @@
 | developer | 開発者（かいはつしゃ） | |
 | development | 開発（かいはつ） | |
 | development environment | 開発環境（かいはつかんきょう） | |
+| distributed database | 分散（ぶんさん）データベース | [Wikipedia | 分散データベース](https://ja.wikipedia.org/wiki/%E5%88%86%E6%95%A3%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9) |
 | documentation | ドキュメンテーション | |
 | download | ダウンロード | |
 | edit | 修正（しゅうせい） | |
@@ -58,6 +60,7 @@
 | icon | アイコン | |
 | implementation | 実装（じっそう） | |
 | improvement | 改善 （かいぜん） | |
+| inbox | 受信トレイ | Email inbox |
 | information | 情報 （じょうほう） | |
 | input | 入力（にゅうりょく） | |
 | installation | インストール | |
@@ -91,6 +94,7 @@
 | protect, protection | 保護（ほご）| |
 | provider | プロバイダー | |
 | public key cryptography | 公開鍵暗号 | |
+| read | 読み取る | Read requests from an application, database, etc. |
 | receive | 受信（じゅしん）する | |
 | reception | 受信（じゅしん） | |
 | recovery | リカバリ | |
@@ -114,3 +118,4 @@
 | transmit, transmission, send | 送信（そうしん） | |
 | trial version | 体験版（たいけんばん） | |
 | user | 利用者（りようしゃ） | |
+| write | 書き込む | Write requests from an application, database, etc. |
