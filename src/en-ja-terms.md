@@ -52,6 +52,7 @@
 | forced termination | 強制終了（きょうせいしゅうりょう） | |
 | format | 形式 （けいしき） | of a file, etc. |
 | forward | 転送（てんそう） | |
+| fragmentation | 断片化（だんぺんか） | |
 | function | 機能（きのう） | |
 | function | 関数 （かんすう） | i.e. void doStuff(int x) |
 | hang, freeze | フリーズ | a hang or freeze occurs when either a process or system ceases to respond to inputs. |
